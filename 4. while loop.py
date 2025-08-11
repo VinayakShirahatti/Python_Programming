@@ -9,11 +9,11 @@
 #     print(i, end=" ")
 # print("Last i", i)
 
-# n = int(input("Enter a number "))
-# while n >= 2:
-#     print(n, end=" ")
-#     n = n - 2
-# print("last n", n)
+n = int(input("Enter a number "))
+while n >= 2:
+    print(n, end=" ")
+    n = n - 2
+print("last n", n)
 
 
 # while True:

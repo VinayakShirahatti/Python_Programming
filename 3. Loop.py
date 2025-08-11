@@ -34,43 +34,43 @@
 #     print(num, end=" ")
 
 
-# a = "mithun"
-# r = len(a)
-# rev = ""
-# for i in range(r - 1, -1, -1):
-#     rev += a[i]
-#     r -= 1
-# print(rev)
+a = "mithun"
+r = len(a)
+rev = ""
+for i in range(r - 1, -1, -1):
+    rev += a[i]
+    r -= 1
+print(rev)
 
 
-for i in range(-25):
-    print(i)
+# for i in range(-25):
+#     print(i)
 
-for i in range(1, 1):
-    print(i)
+# for i in range(1, 1):
+#     print(i)
 
-for i in range(4, 1):
-    print(i)
+# for i in range(4, 1):
+#     print(i)
 
-for i in range(-1, -5, +1):
-    print(i)
+# for i in range(-1, -5, +1):
+#     print(i)
 
 # for i in range(-5, -1, +1):
 #     print(i)
 
-for i in range(-5, -1, -1):
-    print(i)
+# for i in range(-5, -1, -1):
+#     print(i)
 
-for i in range(9, 1, +1):
-    print(i)
+# for i in range(9, 1, +1):
+#     print(i)
 
-a = [10, 20, 30, 40]
+# a = [10, 20, 30, 40]
 
-for num in a[2:]:
-    print(num)
+# for num in a[2:]:
+#     print(num)
 
 # for i in range([2:]):
 #     print(a)
 
-for i in range[2:]:
-    print(i)
+# for i in range[2:]:
+#     print(i)
